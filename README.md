@@ -1,4 +1,4 @@
-Cute-Blocks
-===========
+Cuties-Blocks
+=============
 
 The rebuild of Cuties.
