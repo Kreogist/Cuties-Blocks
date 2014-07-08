@@ -12,17 +12,31 @@
 
 # Qt-es
 
-/.qmake.cache
-/.qmake.stash
-*.pro.user
-*.pro.user.*
-*.moc
 moc_*.cpp
 qrc_*.cpp
-ui_*.h
-Makefile*
+Makefile
 *-build-*
 
-# QtCreator
+# temp-es
+*.tmp
 
-*.autosave
+# user-es
+*.user
+*.user.*
+CMakeCache.txt
+
+# build dir
+/build
+
+#gedit temp file
+*~
+
+#Mac Spotlight Search
+
+.DS_Store
+
+#astyle temp files
+Thumbs.db
+
+#doxygen
+doc/html
